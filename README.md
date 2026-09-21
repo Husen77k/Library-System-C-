@@ -227,7 +227,7 @@ The due date is cleared after returning the item.
 
 ### Output 3
 
-![Output 3](outputs/outputs-3.png)
+![Output 3](outputs/outputs3.png)
 ---
 
 ## 📂 Project Structure
