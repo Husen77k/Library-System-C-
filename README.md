@@ -1,5 +1,3 @@
-Yep. Based on your **actual final code**, here's a proper README that matches what the program really does — no fake features like search/remove/ISBN that aren't in your code.
-
 ````markdown
 # 📚 Library Management System
 
